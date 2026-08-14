@@ -1,2 +1,2 @@
 # Portfolio
-Moje portfolio --- projekty, doświadczenie, tech i gaming.
+Moje portfolio - projekty, doświadczenie, tech i gaming.
